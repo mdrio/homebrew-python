@@ -20,6 +20,8 @@
 *   **ReText** (Markdown Editor)
     -   Supports enchant. (You first need to `brew install enchant`)
     -   Some deps have to be installed via pip (it will tell you so)
+*   **Pydoop** (A Python MapReduce and HDFS API for Hadoop)
+    -   Current formula allows to install Pydoop 0.*. Since Pydoop 1.0, you have to use pip.
 *   _Open an issue if your favorite is missing_
 
 ## How do I install these formulae?
